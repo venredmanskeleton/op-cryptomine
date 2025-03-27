@@ -21,4 +21,4 @@ const difficulty = 4; // Adjust difficulty as needed
 mine(blockData, difficulty);
 
 
-if dont work remove hello world 
+click raw for the script (written in javascript)
